@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Model files (too large for GitHub)
+Models/fraud_model.json
+Models/scaler.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# MLflow
+mlruns/
+
+# OS
+.DS_Store
+Thumbs.db

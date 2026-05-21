@@ -1,0 +1,8 @@
+{
+  "optimal_threshold": 0.0891,
+  "pr_auc": 0.8287,
+  "roc_auc": 0.9737,
+  "model_version": "xgb-final-v1",
+  "model_file": "models/fraud_model.json",
+  "scaler_file": "models/scaler.pkl"
+}
